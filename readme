@@ -1,0 +1,5 @@
+I have built a basic virtual assistank which you can tweek according to your needs.
+
+I have used pyttsx3 for text to speech and speech_recognition to recognise commands and webbrowser to open tabs.
+
+Thank you for downloading.
